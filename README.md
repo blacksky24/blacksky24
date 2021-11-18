@@ -1,7 +1,7 @@
 - 👋 Hi, I am @blackSky24. You can call me Shashank.
 - 👀 I am on a mission to enable global blockchain adoption.
-- 🌱 I am currently learning about building Web3 applications.
-- 💞️ I’m looking to collaborate on Dapps, NFt projects.
+- 🌱 I am currently learning about Web3.
+- 💞️ I’m looking to collaborate on Dapps, NFT projects.
 - 📫 How to reach me - Ping me on LinkedIn.
 
 <!---
