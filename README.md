@@ -1,5 +1,5 @@
-- 👋 Hi, I am @blackSky24. You can call me Shashank.
-- 👀 I am on a mission to enable global blockchain adoption.
+- 👋 Hi, I am @HighOnNFT You can call me Shashank.
+- 👀 I am on a mission to decentralize the world. 
 - 🌱 I am currently learning about Web3.
 - 💞️ I am looking to collaborate on Dapps, NFT projects.
 - 📫 How to reach me - Ping me on LinkedIn.
