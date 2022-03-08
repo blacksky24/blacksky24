@@ -1,7 +1,7 @@
-- 👋 Hi, I am @HighOnNFT You can call me Shashank.
+- 👋 Hi, I am @HighOnNFT aka blackSky.
 - 👀 I am on a mission to decentralize the world. 
-- 🌱 I am currently learning about Web3.
-- 💞️ I am looking to collaborate on Dapps, NFT projects.
+- 🌱 I am currently building a marketplace for Music NFTs on solana ecosystem.
+- 💞️ I am looking to collaborate with other smart contract and full-stack developers.
 - 📫 How to reach me - Ping me on LinkedIn.
 
 <!---
