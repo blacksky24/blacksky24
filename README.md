@@ -1,5 +1,5 @@
 - 👋 Hi, I am @HighOnNFT aka blackSky.
-- 👀 Founder of Crusaders DAO - YCombinator of Web3.
+- 👀 Founder of https://CrusadersDAO.xyz - YCombinator of Web3.
 - 🌱 We are currently building tools for Solana ecosystem.
 - 💞️ I am hiring Smart Contract and full-stack devs (Js, Rust, MERN)
 - 📫 How to reach me - Ping me on LinkedIn or Twitter.
