@@ -1,6 +1,6 @@
-- 👋 Hi, I am @HighOnNFT aka blackSky.
+- 👋 Hi, I am Shashank aka blackSky.
 - 👀 Software Developer -> Technical Program Manager -> Product Manager -> Entrepreneur
-- 🌱 Currently building web3 games, tools and communities
+- 🌱 Currently building AI and web3 stuff
 - 📫 How to reach me - Ping me on LinkedIn or Twitter.
 
 <!---
